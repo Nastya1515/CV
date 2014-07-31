@@ -16,6 +16,19 @@ software integration. Software testing evangelist.
 Professional Experience
 -----------------------
 
+2010 - 2012
++++++++++++
+
+`Kanda Software`_
+
+Python Developer
+
+  * Developed some GUI parts of `XLIFF Editor`_
+  * Integrated threads to improve performance of long-time operations (network connections to TM machines)
+  * Maintained packages for Windows OS for QA team
+  * Code review
+
+
 June 2009 - September 2009
 ++++++++++++++++++++++++++
 
@@ -29,7 +42,8 @@ Participant (student), developer, UX designer.
 
 Education
 ---------
-:2006-2011: Master's Degree in Software Engineering. Belarusian State University of Informatics and Radioelectronics, Belarus
+:2006-2011: Belarusian State University of Informatics and Radioelectronics
+bachelor, artificial intelligence, Belarus
 
 
 Honors & Awards
@@ -80,3 +94,5 @@ Languages
 .. _JavaScript: https://developer.mozilla.org/
 .. _PyGTK: http://www.pygtk.org/
 .. _AutoCAD: http://www.autodesk.ru/products/autocad/overview
+.. _`Kanda Software`: http://www.kandasoft.com/
+.. _`XLIFF Editor`: https://www.geoworkz.com/Products/FeaturesAndFunctionality.aspx
