@@ -12,6 +12,10 @@ software integration. Software testing evangelist.
 :Email: maxusachev@gmail.com
 :Date of Birth: March 7, 1988
 
+:Skype maxusachev
+:GTalk maxusachev@gmail.com
+:LinkedIn www.linkedin.com/pub/max-usachev/29/835/748/
+
 
 Professional Experience
 -----------------------
