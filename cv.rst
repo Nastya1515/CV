@@ -20,6 +20,19 @@ software integration. Software testing evangelist.
 Professional Experience
 -----------------------
 
+February 2012 – August 2012
++++++++++++++++++++++++++++
+
+`ATM Navigator`_
+
+Python Developer, JavaScript Developer, Maintainer
+
+  * Developed Google App Engine back-end for storing ATM geo data
+  * Developed HTML5 hybrid application for mobile devices
+  * Developed HTML parsers (extract atms data from different web resources)
+  * Published application to Google Play Market
+
+
 2010 - 2012
 +++++++++++
 
@@ -100,3 +113,4 @@ Languages
 .. _AutoCAD: http://www.autodesk.ru/products/autocad/overview
 .. _`Kanda Software`: http://www.kandasoft.com/
 .. _`XLIFF Editor`: https://www.geoworkz.com/Products/FeaturesAndFunctionality.aspx
+.. _`ATM Navigator`: https://play.google.com/store/apps/details?id=com.appspot.atmnavigator_minsk
