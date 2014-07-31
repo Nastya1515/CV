@@ -29,8 +29,8 @@ Python Developer
   * Code review
 
 
-June 2009 - September 2009
-++++++++++++++++++++++++++
+March 2009 – August 2009
+++++++++++++++++++++++++
 
 `Google Summer of Code`_
 
