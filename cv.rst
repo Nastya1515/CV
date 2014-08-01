@@ -20,6 +20,18 @@ software integration. Software testing evangelist.
 Professional Experience
 -----------------------
 
+January 2012 - April 2013
++++++++++++++++++++++++++
+
+`Wargaming.net`_
+
+Python Developer, JavaScript Developer
+
+  * Integrated payment gateways (Yandex money, Playspan, Pensio, ...) with `World Of Tanks`_ game portal
+  * Developed payment forms for gamers on `World Of Tanks`_ game portal
+  * Developed internal network services
+
+
 February 2012 – August 2012
 +++++++++++++++++++++++++++
 
@@ -114,3 +126,5 @@ Languages
 .. _`Kanda Software`: http://www.kandasoft.com/
 .. _`XLIFF Editor`: https://www.geoworkz.com/Products/FeaturesAndFunctionality.aspx
 .. _`ATM Navigator`: https://play.google.com/store/apps/details?id=com.appspot.atmnavigator_minsk
+.. _`Wargaming.net`: http://www.wargaming.com/
+.. _`World Of Tanks`: http://worldoftanks.com/
