@@ -20,6 +20,18 @@ software integration. Software testing evangelist.
 Professional Experience
 -----------------------
 
+April 2013 - now
+++++++++++++++++
+
+`Wargaming.net Premium Shop`_
+
+Software Architector, Python Developer, JavaScript Developer
+
+  * Designed and developed new internal payment system
+  * Configured continuous integration system (TeamCity) for payment system project
+  * Developed and maintained internal python packages
+
+
 January 2012 - April 2013
 +++++++++++++++++++++++++
 
@@ -128,3 +140,4 @@ Languages
 .. _`ATM Navigator`: https://play.google.com/store/apps/details?id=com.appspot.atmnavigator_minsk
 .. _`Wargaming.net`: http://www.wargaming.com/
 .. _`World Of Tanks`: http://worldoftanks.com/
+.. _`Wargaming.net Premium Shop`: https://wargaming.net/shop/
