@@ -45,8 +45,8 @@ Python Developer, JavaScript Developer, Maintainer
   * Published application to Google Play Market
 
 
-2010 - 2012
-+++++++++++
+August 2010 - January 2012
+++++++++++++++++++++++++++
 
 `Kanda Software`_
 
