@@ -23,7 +23,7 @@ Professional Experience
 April 2013 - now
 ++++++++++++++++
 
-`Wargaming.net Premium Shop`_
+`Wargaming.net`_
 
 Software Architector, Python Developer, JavaScript Developer
 
