@@ -25,7 +25,7 @@ April 2013 - now
 
 `Wargaming.net`_
 
-Software Architector, Python Developer, JavaScript Developer
+Software Architect, Python Developer, JavaScript Developer
 
   * Designed and developed new internal payment system
   * Configured continuous integration system (TeamCity) for payment system project
