@@ -15,6 +15,7 @@ software integration. Software testing evangelist.
 :Skype: maxusachev
 :GTalk: maxusachev@gmail.com
 :LinkedIn: www.linkedin.com/pub/max-usachev/29/835/748/
+:GitHub: https://github.com/umax
 
 
 Professional Experience
@@ -113,7 +114,7 @@ Languages
 ----
 
 :Source: https://github.com/umax/CV
-:Last updated: August 1, 2014
+:Last updated: August 14, 2014
 
 
 .. _Maemo: http://www.maemo.org
