@@ -31,6 +31,7 @@ Software Architect, Python Developer, JavaScript Developer
   * Designed and developed new internal payment system
   * Configured continuous integration system (TeamCity) for payment system project
   * Developed and maintained internal python packages
+  * Designed and implemented AB testing system for Premium Shop web resource
 
 
 January 2012 - April 2013
