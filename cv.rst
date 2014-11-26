@@ -115,7 +115,7 @@ Languages
 ----
 
 :Source: https://github.com/umax/CV
-:Last updated: August 14, 2014
+:Last updated: November 26, 2014
 
 
 .. _Maemo: http://www.maemo.org
