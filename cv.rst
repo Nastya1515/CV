@@ -104,7 +104,7 @@ Programming languages
     * moderate: JavaScript
     * some: C, Java, C#
 Tools
-    * Git_, Subversion_, Python_, IPython_, Pylint_, PEP8_, PyTest_, unittest_, Mock_, TeamCity_, Fabric_, Django_, Twisted_, JavaScript_, PyGTK_, AutoCAD_
+    * Git_, Subversion_, Python_, IPython_, Pylint_, PEP8_, PyTest_, unittest_, Mock_, TeamCity_, Fabric_, Django_, Twisted_, JavaScript_, PyGTK_, AutoCAD_, Jenkins_
 
 
 Languages
@@ -143,3 +143,4 @@ Languages
 .. _`Wargaming.net`: http://www.wargaming.com/
 .. _`World Of Tanks`: http://worldoftanks.com/
 .. _`Wargaming.net Premium Shop`: https://wargaming.net/shop/
+.. _Jenkins: http://jenkins-ci.org/
