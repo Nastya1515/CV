@@ -32,6 +32,8 @@ Software Architect, Python Developer, JavaScript Developer
   * Configured continuous integration system (TeamCity) for payment system project
   * Developed and maintained internal python packages
   * Designed and implemented AB testing system for Premium Shop web resource
+  * Integrated Apple payment system with Wargaming payment system
+  * Integrated Google payment system with Wargaming payment system
 
 
 January 2012 - April 2013
@@ -115,7 +117,7 @@ Languages
 ----
 
 :Source: https://github.com/umax/CV
-:Last updated: November 26, 2014
+:Last updated: January 27, 2015
 
 
 .. _Maemo: http://www.maemo.org
