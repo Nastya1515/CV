@@ -29,7 +29,8 @@ April 2013 - now
 Software Architect, Python Developer, JavaScript Developer
 
   * Designed and developed new internal payment system
-  * Configured continuous integration system (TeamCity) for payment system project
+  * Configured continuous integration system for payment system project.
+    Started from TeamCity, then switched to Jenkins.
   * Developed and maintained internal python packages
   * Designed and implemented AB testing system for Premium Shop web resource
   * Integrated Apple payment system with Wargaming payment system
