@@ -113,12 +113,15 @@ Tools
 Languages
 ---------
 :Russian: Mother tongue
-:English: Not bad
+:English:
+  * reading: Intermediate
+  * writing: Intermediate
+  * speaking: Pre-Intermediate
 
 ----
 
 :Source: https://github.com/umax/CV
-:Last updated: January 27, 2015
+:Last updated: April 14, 2015
 
 
 .. _Maemo: http://www.maemo.org
@@ -147,3 +150,6 @@ Languages
 .. _`World Of Tanks`: http://worldoftanks.com/
 .. _`Wargaming.net Premium Shop`: https://wargaming.net/shop/
 .. _Jenkins: http://jenkins-ci.org/
+.. _Redis: http://redis.io/
+.. _Neo4j: http://neo4j.com
+.. _`PyTest-Django`: http://pytest-django.readthedocs.org/en/latest/
