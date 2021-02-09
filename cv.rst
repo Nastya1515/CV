@@ -4,25 +4,36 @@ Max Usachev
 Software Engineer
 =================
 
-Areas of expertise: Python programming, Web-development (full stack),
-software integration. Software testing evangelist.
+Areas of expertise: Python, Docker, microservices architecture,
+web-development (full stack), continuous integration/deployment.
+Self-starter with minimal amount of instructions and supervision required.
 
-:Address: Zhukovsky street 4-146 220007 Minsk, Belarus
+:Address: Minsk, Belarus
 :Phone: +375298515499
 :Email: maxusachev@gmail.com
 :Date of Birth: March 7, 1988
 
-:Skype: maxusachev
-:GTalk: maxusachev@gmail.com
 :LinkedIn: www.linkedin.com/pub/max-usachev/29/835/748/
-:GitHub: https://github.com/umax
 
 
 Professional Experience
 -----------------------
 
-April 2013 - now
-++++++++++++++++
+August 2015 - June 2017
++++++++++++++++++++++++
+
+`Juno Inc`_ (acquired by `Lyft`_)
+
+Software Architect, Python, GoLang Developer
+
+  * Designed and developed onboarding system for drivers
+  * Designed and developed backoffice systems for support team and onboarding specialists
+  * Designed and maintained internal python packages
+  * Designed and developed microservices for riders, drivers, backoffice systems
+
+
+April 2013 - July 2015
+++++++++++++++++++++++
 
 `Wargaming.net`_
 
@@ -94,29 +105,30 @@ bachelor, artificial intelligence, Belarus
 
 Honors & Awards
 ---------------
-    * Google Summer 2009 Certificate
+    * Google Summer of Code 2009 Certificate
 
 
 Technical skills
 ----------------
 
 Operation Systems
-    * Linux, MacOS, Windows
+    * Linux, MacOS
 Programming languages
-    * **strong knowledge of Python**
+    * **excellent knowledge of Python**
+    * moderate: GoLang
     * moderate: JavaScript
-    * some: C, Java, C#
+    * some: C, Java
 Tools
-    * Git_, Subversion_, Python_, IPython_, Pylint_, PEP8_, PyTest_, unittest_, Mock_, TeamCity_, Fabric_, Django_, Twisted_, JavaScript_, PyGTK_, AutoCAD_, Jenkins_
+    * Git_, VSCode_, Docker_, GitLab_, Jenkins_
 
 
 Languages
 ---------
 :Russian: Mother tongue
 :English:
-  * reading: Intermediate
+  * reading: Upper-Intermediate
   * writing: Intermediate
-  * speaking: Pre-Intermediate
+  * speaking: Intermediate
 
 ----
 
@@ -128,21 +140,13 @@ Languages
 .. _`Google Summer of Code`: http://code.google.com/soc/
 .. _GSoC: http://code.google.com/soc/
 .. _Git: http://git-scm.com/
-.. _Subversion: http://www.subversion.apache.org/
-.. _Pylint: http://www.pylint.org/
+.. _GitLab: http://gitlab.com/
+.. _Docker: http://docker.com/
 .. _Python: http://www.python.org/
-.. _IPython: http://ipython.org/
-.. _PEP8: http://www.github.com/jcrocholl/pep8
-.. _PyTest: http://www.pytest.org/
-.. _unittest: https://docs.python.org/2/library/unittest.html
-.. _Mock: http://www.voidspace.org.uk/python/mock/
+.. _VSCode: https://code.visualstudio.com/
 .. _TeamCity: http://www.jetbrains.com/teamcity/
-.. _Fabric: http://www.fabfile.org/
-.. _Django: https://www.djangoproject.com/
-.. _Twisted: https://twistedmatrix.com/trac/
+.. _Lyft: http://www.lyft.com/
 .. _JavaScript: https://developer.mozilla.org/
-.. _PyGTK: http://www.pygtk.org/
-.. _AutoCAD: http://www.autodesk.ru/products/autocad/overview
 .. _`Kanda Software`: http://www.kandasoft.com/
 .. _`XLIFF Editor`: https://www.geoworkz.com/Products/FeaturesAndFunctionality.aspx
 .. _`ATM Navigator`: https://play.google.com/store/apps/details?id=com.appspot.atmnavigator_minsk
@@ -153,3 +157,4 @@ Languages
 .. _Redis: http://redis.io/
 .. _Neo4j: http://neo4j.com
 .. _`PyTest-Django`: http://pytest-django.readthedocs.org/en/latest/
+.. _`Juno Inc`: https://en.wikipedia.org/wiki/Juno_(company)
